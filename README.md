@@ -1,6 +1,6 @@
 # LGMVIP-Web-Task-1
 
-# Glassmorphic Todo List
+#  Todo List
 
 ![Screenshot (12)](https://github.com/Sabavat-Jayanth-Naik/LGMVIP-Web-Task-1/assets/130920035/d5fbdb51-1317-429e-9c51-63d0f55fb08d)
 
