@@ -7,7 +7,7 @@ Sure! Here's a description for the Todo list that you can use in your GitHub REA
 
 ## Description
 
-This is a stylish and modern Todo list application with a beautiful glassmorphic effect. It allows you to easily add, manage, and complete your daily tasks in a visually pleasing and intuitive interface. The Todo list features vibrant colors, responsive fonts, and a translucent background, giving it a trendy and contemporary appearance.
+This is a stylish and modern Todo list application with a beautiful glass morphic effect. It allows you to easily add, manage, and complete your daily tasks in a visually pleasing and intuitive interface. The Todo list features vibrant colors, responsive fonts, and a translucent background, giving it a trendy and contemporary appearance.
 
 ## Features
 
