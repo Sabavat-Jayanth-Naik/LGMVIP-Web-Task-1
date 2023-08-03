@@ -1,5 +1,4 @@
 # LGMVIP-Web-Task-1
-Sure! Here's a description of the Todo list that you can use in your GitHub README file:
 
 # Glassmorphic Todo List
 
